@@ -8,13 +8,14 @@
 <script src='https://cdn.jsdelivr.net/gh/lullaby6/load-async.js/load-async.cdn.js'></script>
 ```
 
-## Usage
+## Examples
 
 ### Load
 
 ```js
-// Example
+
 loadCSS('https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css');
+
 loadJS('https://cdn.jsdelivr.net/npm/toastify-js', () => {
     Toastify({
         text: "This is a toast",
