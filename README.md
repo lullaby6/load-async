@@ -1,5 +1,7 @@
 # load-async.js
 
+A lightweight JavaScript library for loading JavaScript and CSS files asynchronously. It provides easy-to-use functions to dynamically load scripts and stylesheets, either synchronously or asynchronously, with error handling capabilities.
+
 ## Installation
 
 ### CDN
@@ -13,7 +15,6 @@
 ### Load
 
 ```js
-
 loadCSS('https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css');
 
 loadJS('https://cdn.jsdelivr.net/npm/toastify-js', () => {
