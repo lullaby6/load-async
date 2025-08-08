@@ -1,13 +1,13 @@
-# load-async.js
+# Load Async
 
-A lightweight JavaScript library for loading JavaScript and CSS files asynchronously. It provides easy-to-use functions to dynamically load scripts and stylesheets, either synchronously or asynchronously, with error handling capabilities.
+A lightweight an easy-to-use JavaScript library for loading JavaScript and CSS files asynchronously. It provides functions to dynamically load scripts and stylesheets, either synchronously or asynchronously, with error handling capabilities.
 
 ## Installation
 
 ### CDN
 
 ```html
-<script src='https://cdn.jsdelivr.net/gh/lullaby6/load-async.js/load-async.cdn.js'></script>
+<script src='https://cdn.jsdelivr.net/gh/lullaby6/load-async/load-async.js'></script>
 ```
 
 ## Examples
