@@ -10,6 +10,10 @@ A lightweight an easy-to-use JavaScript library for loading JavaScript and CSS f
 <script src='https://cdn.jsdelivr.net/gh/lullaby6/load-async/load-async.js'></script>
 ```
 
+### Download
+
+<a href="https://cdn.jsdelivr.net/gh/lullaby6/load-async/load-async.js" target="_blank" download>Download</a>
+
 ## Examples
 
 ### Load
