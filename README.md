@@ -12,7 +12,7 @@ A lightweight an easy-to-use JavaScript library for loading JavaScript and CSS f
 
 ### Download
 
-<a href="https://cdn.jsdelivr.net/gh/lullaby6/load-async/load-async.js" target="_blank" download>Download</a>
+<a href="https://cdn.jsdelivr.net/gh/lullaby6/load-async/load-async.js" target="_blank" download>Click to download load-async.js</a>
 
 ## Examples
 
